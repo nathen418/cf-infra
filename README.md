@@ -1,6 +1,7 @@
+
 # Cloudflare Error Pages
 
-[Live Demo](https://mrdemonwolf.github.io/cf-pages/)
+[Live Demo](https://cf-infra.antaresnetwork.com/cf-500.html)
 
 Cloudflare-Error is a set of clean and professional HTML templates designed for use as error pages in Cloudflare's [custom page](https://support.cloudflare.com/hc/en-us/articles/200172706-Configuring-Custom-Pages-Error-and-Challenge-) section. This repository uses the latest version of Tailwind CSS served by Cloudflare's cdnjs.
 
