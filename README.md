@@ -22,12 +22,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## Contact
-
-If you have any questions, suggestions, or feedback, feel free to reach out to us!
-
-- Discord: [Join our server](https://mrdwolf.com/discord)
-
-Thank you for choosing MrDemonWolf Help Desk to enhance your customer support!
-
+<br><br><br><br><br><br>
 Made with ❤️ by [MrDemonWolf, Inc.](https://www.mrdemonwolf.com)
